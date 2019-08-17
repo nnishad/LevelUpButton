@@ -15,6 +15,30 @@
       },
       "oauth_client": [
         {
+          "client_id": "894024961068-plu48ticp209un8srqela0hjcdjm8dt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "bc33aa2ded7c9da604de004707b2fb447c83f5a8"
+          }
+        },
+        {
+          "client_id": "894024961068-5q5e6gifhdp1an0a2u74i0nvjdudd2hn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "3d368909ff2e521f93736455782795f08242e623"
+          }
+        },
+        {
+          "client_id": "894024961068-2smev55l6i58sbc20q6ragvravkmufd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nightowldevelopers.levelup2",
+            "certificate_hash": "a27db23de77c5da9a5817b95d8aaa5cecb807453"
+          }
+        },
+        {
           "client_id": "894024961068-llfqh2n3o0fag6b9r4fvs26am9j9bva1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -41,7 +65,8 @@
             }
           ]
         }
-      }
+      },
+      "admob_app_id": "ca-app-pub-6425347832770094~8061430100"
     },
     {
       "client_info": {

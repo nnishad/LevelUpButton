@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">One Tap Xp Booster 2</string>
-    <string name="game_title">Level Up </string>
+    <string name="game_title">One Tap XP Booster 2!</string>
     <string name="game_blurb">Click a button <b>few seconds</b>\n &amp; won <b>Max XP</b> to your Account.</string>
     <string name="invite_players_explanation">Your Leaderboard</string>
     <string name="see_invitations_explanation">Your Achievements</string>
@@ -20,17 +20,17 @@
 
     <string name="congratulation">CONGRATULATIONS, You won 100000XP Points</string>
     <string name="Instruction">Instructions: Click the Button and Start Game</string>
-    <string name="level_up_2">Level Up 2!</string>
+    <string name="level_up_2">One Tap XP Booster 2!</string>
     <string name="follow_amp_nunlock_achievement">Follow &amp;\n Unlock achievement</string>
     <string name="signout">Signout</string>
     <string name="rate_text">Rate Us 5-star &amp;\n Won Additional Xp</string>
 
 
-    <string name="admob_app_id">ca-app-pub-6425347832770094~8061430100</string>
+    <string name="admob_app_id">ca-app-pub-9659269658536774~6846635911</string>
     <!--Admob Account Id-->
-    <string name="vdo_ad_unit_id">ca-app-pub-6425347832770094/7887429469</string>
-    <string name="admob_interstitial_id">ca-app-pub-6425347832770094/1598105281</string>
-    <string name="admob_banner_id">ca-app-pub-6425347832770094/4102837943</string>
+    <string name="vdo_ad_unit_id">ca-app-pub-9659269658536774/9282540647</string>
+    <string name="admob_interstitial_id">ca-app-pub-9659269658536774/7173938976</string>
+    <string name="admob_banner_id">ca-app-pub-9659269658536774/4611354810</string>
     <!--Test Id Below-->
     <!--<string name="vdo_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>-->
     <!--<string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->

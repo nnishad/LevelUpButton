@@ -10,7 +10,9 @@
         style="@style/LLScreen"
         tools:ignore="MissingConstraints">
 
-        <TextView style="@style/GameTitle" />
+        <TextView
+            style="@style/GameTitle"
+            android:text="One Tap XP Booster 2!" />
 
         <TextView
             style="@style/GameBlurb"
@@ -44,10 +46,10 @@
             android:labelFor="@+id/pushme_text"
             app:layout_constraintBottom_toTopOf="@+id/constraintLayout"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/achievement_text"
-            app:layout_constraintVertical_bias="0.349" />
+            app:layout_constraintVertical_bias="0.231" />
 
         <TextView
             android:id="@+id/textView"
@@ -73,7 +75,7 @@
             android:layout_height="70dp"
             android:layout_marginStart="44dp"
 
-            android:layout_marginTop="44dp"
+            android:layout_marginTop="72dp"
             android:layout_marginEnd="8dp"
 
             android:background="@drawable/ledaer5"
@@ -127,7 +129,7 @@
             android:layout_height="70dp"
             android:layout_marginStart="8dp"
 
-            android:layout_marginTop="44dp"
+            android:layout_marginTop="72dp"
             android:layout_marginEnd="44dp"
 
             android:background="@drawable/achievemnt_logo"
@@ -264,7 +266,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginBottom="40dp"
             ads:adSize="BANNER"
-            ads:adUnitId="ca-app-pub-6425347832770094/4102837943"
+            ads:adUnitId="ca-app-pub-9659269658536774/4611354810"
             ads:layout_constraintBottom_toTopOf="@+id/constraintLayout"
             ads:layout_constraintEnd_toEndOf="parent"
             ads:layout_constraintHorizontal_bias="0.493"

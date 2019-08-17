@@ -208,10 +208,10 @@ public class MainActivity extends Activity implements
                 Games.getLeaderboardsClient(this, Objects.requireNonNull(GoogleSignIn.getLastSignedInAccount(this)))
                         .submitScore(getString(R.string.leaderboard_leaderboard), 2500);
                 builder = new AlertDialog.Builder(this);
-                builder.setMessage("You'll get your Achievement after this Rewarded Video").setTitle("Redeem Rewards");
+                builder.setMessage("You'll get your Achievement after watching a Rewarded Video").setTitle("Redeem XP");
 
                 //Setting message manually and performing action on button click
-                builder.setMessage("You'll get your Achievement after this Rewarded Video")
+                builder.setMessage("You'll get your Achievement after watching a Rewarded Video")
                         .setCancelable(false)
                         .setPositiveButton("Yes", new OnClickListener() {
                             public void onClick(DialogInterface dialog, int id) {
@@ -520,7 +520,7 @@ public class MainActivity extends Activity implements
                 GoogleSignInAccount account = task.getResult(ApiException.class);
                 onConnected(account);
             } catch (ApiException apiException) {
-
+                Log.d(TAG, "exception");
                 onDisconnected();
 
                 startSignInIntent();
