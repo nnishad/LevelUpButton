@@ -28,12 +28,10 @@
 
     <string name="admob_app_id">ca-app-pub-9659269658536774~6846635911</string>
     <!--Admob Account Id-->
+
+    <!--Test Id Below-->
     <string name="vdo_ad_unit_id">ca-app-pub-9659269658536774/9282540647</string>
     <string name="admob_interstitial_id">ca-app-pub-9659269658536774/7173938976</string>
     <string name="admob_banner_id">ca-app-pub-9659269658536774/4611354810</string>
-    <!--Test Id Below-->
-    <!--<string name="vdo_ad_unit_id">ca-app-pub-3940256099942544/5224354917</string>-->
-    <!--<string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
-   <!-- <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
 
 </resources>
